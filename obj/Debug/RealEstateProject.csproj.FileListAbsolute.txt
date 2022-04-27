@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.Form1.resources
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\bin\Debug\RealEstateProject.exe.config
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\bin\Debug\RealEstateProject.exe
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\bin\Debug\RealEstateProject.pdb
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.exe
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.pdb
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.Form2.resources
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.Form3.resources
+C:\Users\ASUS\Desktop\Development\Repos\RealEstateProject\obj\Debug\RealEstateProject.Form4.resources
